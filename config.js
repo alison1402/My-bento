@@ -12,7 +12,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Alice',
+	name: 'Allison',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -68,7 +68,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Classroom',
 			icon: 'trello',
-			link: 'https://classroom.google.com/u/1/',
+			link: 'https://www.sfsu.edu/login.htm',
 		},
 		{
 			id: '4',
