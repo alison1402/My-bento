@@ -124,12 +124,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Nitter',
-					link: 'https://nitter.net/',
+					name: 'Danbooru',
+					link: 'https://danbooru.donmai.us/',
 				},
 				{
-					name: 'tumblr',
-					link: 'https://www.tumblr.com/',
+					name: '/jp/',
+					link: 'https://boards.4chan.org/jp/',
 				},
 				{
 					name: 'Moriya Shrine',
